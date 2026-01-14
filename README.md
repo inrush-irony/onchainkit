@@ -62,6 +62,10 @@ For documentation and guides, visit [onchainkit.xyz](https://onchainkit.xyz/).
 ### Overview
 
 This project is set up as a monorepo with pnpm workspaces.
+Onchainkit is a developer toolkit designed for interacting with blockchain
+networks and smart contracts. It simplifies key management, transaction
+signing, and various blockchain operations, making it ideal for backend services
+and developer workflows.
 
 ### Requirements
 
